@@ -80,3 +80,8 @@ sudo apt-get install bleachbit
 
 #TIG (git cli)
 sudo apt-get install tig
+
+#Zeal documentation Browser
+$ sudo add-apt-repository ppa:zeal-developers/ppa
+$ sudo apt-get update
+$ sudo apt-get install zeal
